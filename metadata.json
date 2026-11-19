@@ -1,0 +1,6 @@
+{
+  "name": "EdPsych for STP8301 PGDE",
+  "description": "Interactive beginner study studio for Educational Psychology grounded strictly in OUSL STP8301, Sessions 01–11, and attached course references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
